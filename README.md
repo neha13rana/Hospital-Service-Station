@@ -11,6 +11,7 @@ the branch hospital.
 https://www.thermh.org.au/
 
 **The main Head quarter has the following department :**
+
 1) Medical Lead Operation & Consultancy Services
 2) Medical Emergency and Reporting
 3) Medical Records Management
@@ -26,6 +27,7 @@ The Branch hospital has the following department :
 6) Guest/Waiting area
 
 **Used Concepts of the computer networks is :**
+
 • Hierarchical model – For redundancy.
 
 • Access switches, Multilayer switches – For Cost effectiveness.
