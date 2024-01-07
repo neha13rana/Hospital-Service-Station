@@ -1,8 +1,14 @@
 # Hospital-Service-Station
 
 In this Project we are created a Network of Melbourne Health service station which provides the services between two locations service head quarter and the branch hospital.
+Melbourne Health Services is a prominent health provider in Australia, renowned for delivering 
+comprehensive health solutions and services to its clientele. The institution has solidified its position 
+in the healthcare sector and operates efficiently across two distinct locations within the same city. 
+The primary hub of the organization, its hospital headquarters, is situated 20 kilometers away from 
+the branch hospital.
 
-**Melbourne health service station map : **https://www.thermh.org.au/
+**Melbourne health service station map :**
+https://www.thermh.org.au/
 
 **The main Head quarter has the following department :**
 1) Medical Lead Operation & Consultancy Services
@@ -21,16 +27,27 @@ The Branch hospital has the following department :
 
 **Used Concepts of the computer networks is :**
 • Hierarchical model – For redundancy.
+
 • Access switches, Multilayer switches – For Cost effectiveness.
+
 • VLAN
+
 • Subnetting
+
 • Intervlan
+
 • Wireless Vlan
+
 • OSPF
+
 • SSH
+
 • Default static routing 
+
 • Next-hop Ip (When traffic is more)
+
 • Email-server , FTP(File Transfer Protocol)-server
+
 
 **Final Network :**
 ![image](https://github.com/neha13rana/Hospital-Service-Station/assets/121093178/5ae85c8e-3359-43cf-8ba1-1dc4b91f2f6d)
@@ -38,4 +55,6 @@ The Branch hospital has the following department :
 In the uploaded report file the whole project details is given with the proper commands and the cisco simulation snapshots. 
 
 **Contributors :**
+- [neha13rana](https://github.com/neha13rana).
+- [Krish-P03](https://github.com/Krish-P03)
 
